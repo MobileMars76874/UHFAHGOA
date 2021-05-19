@@ -1,0 +1,30 @@
+body{
+background-image: url("background.jpg");
+
+}
+
+.heading{
+width: 100%;
+text-align: left;
+}
+
+.heading h3{
+display: inline;
+}
+
+.heading button{
+float: right;
+}
+
+#h{
+display: inline;
+}
+
+#INS{
+width: 90%;
+}
+
+.l{
+width: 45%;
+}
+
